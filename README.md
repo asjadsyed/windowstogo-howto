@@ -24,6 +24,9 @@ right-click your drive in File Explorer
 if the menu has a Format option but not an Eject option, then it is a Fixed drive 
 
 
+### Converting an install.esd file to an install.wim file
+
+
 ### Imaging your drive, from Linux
 
 ### Imaging your drive, from Windows
@@ -32,3 +35,4 @@ if the menu has a Format option but not an Eject option, then it is a Fixed driv
 * [Admin Magazine Guide](http://www.admin-magazine.com/Articles/Putting-Windows-8-on-a-USB-Drive)
 * [How-To Geek Guide](http://www.howtogeek.com/196817/how-to-create-a-windows-to-go-usb-drive-without-the-enterprise-edition/)
 * [ingramator's post on the Neowin forum](http://www.neowin.net/forum/topic/1134268-tutorialwindows-8-to-go-without-enterprise-edition/)
+* [A guide on Into Windows about how to use WinReducer's Wim Converter software](http://www.intowindows.com/how-to-easily-convert-install-esd-to-install-wim/)
